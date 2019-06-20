@@ -9,7 +9,7 @@ library(ROCR)
 rm(list = ls())
 
 #SetWorking Directory
-setwd('D:/Data Science/Miscellaneous/Santander Customer Transaction Prediction')
+setwd(path)
 getwd()
 
 #Load Data
